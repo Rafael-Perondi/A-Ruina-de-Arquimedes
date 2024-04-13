@@ -12,6 +12,7 @@ const createPlayer = (scene) => {
     return player
 }
 
+
 const loadPlayerSprites = (scene) => {
 
     scene.load.spritesheet('player_idle', './assets/player/player_idle.png', {
