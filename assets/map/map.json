@@ -154,7 +154,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"grassTileset.png",
+         "image":"tiles\/grassTileset.png",
          "imageheight":160,
          "imagewidth":128,
          "margin":0,
@@ -167,7 +167,7 @@
         {
          "columns":8,
          "firstgid":81,
-         "image":"waterTileset.png",
+         "image":"tiles\/waterTileset.png",
          "imageheight":80,
          "imagewidth":128,
          "margin":0,
